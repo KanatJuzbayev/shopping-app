@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook",
+    "imgURL": "https://images.unsplash.com/photo-1518459506758-fcec22c80e75?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2574&q=80",
+    "price": 25
+  },
+  {
+    "id": 2,
+    "name": "Lenovo Yoga",
+    "imgURL": "https://images.unsplash.com/photo-1518459506758-fcec22c80e75?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2574&q=80",
+    "price": 25
+  },
+  {
+    "id": 3,
+    "name": "Dell lattitude",
+    "imgURL": "https://images.unsplash.com/photo-1518459506758-fcec22c80e75?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2574&q=80",
+    "price": 25
+  },
+  {
+    "id": 4,
+    "name": "HP Pavillion",
+    "imgURL": "https://images.unsplash.com/photo-1518459506758-fcec22c80e75?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2574&q=80",
+    "price": 25
+  },
+  {
+    "id": 5,
+    "name": "Acer Aspire",
+    "imgURL": "https://images.unsplash.com/photo-1518459506758-fcec22c80e75?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2574&q=80",
+    "price": 25
+  },
+  {
+    "id": 6,
+    "name": "Dell Vostro",
+    "imgURL": "https://images.unsplash.com/photo-1518459506758-fcec22c80e75?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2574&q=80",
+    "price": 25
+  },
+  {
+    "id": 7,
+    "name": "HP Victus",
+    "imgURL": "https://images.unsplash.com/photo-1518459506758-fcec22c80e75?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2574&q=80",
+    "price": 25
+  },
+  {
+    "id": 8,
+    "name": "Acer Nitro 5",
+    "imgURL": "https://images.unsplash.com/photo-1518459506758-fcec22c80e75?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2574&q=80",
+    "price": 25
+  }
+]

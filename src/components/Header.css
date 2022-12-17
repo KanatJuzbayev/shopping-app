@@ -1,0 +1,23 @@
+.header-nav {
+  position: sticky;
+  box-shadow: 0px 10px 20px #ccc;
+  margin-bottom: 10px;
+}
+.header {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  align-items: center;
+  padding: 7px 20px;
+}
+
+.header-h2 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 2rem;
+  line-height: 3.4rem;
+}
+
+.logout_button:hover {
+  background: rgb(18, 20, 26);
+}
