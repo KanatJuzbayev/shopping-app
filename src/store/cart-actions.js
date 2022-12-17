@@ -53,8 +53,6 @@ export const sendCardData = (cart) => {
           type: "success",
         })
       );
-
-      const data = res.json();
     };
 
     try {
