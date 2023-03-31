@@ -1,1 +1,1 @@
-# [shopping-app](https://kanatjuzbayev.github.io/shopping-app/)
+# [shopping-app](https://kanatjuzbayev.github.io/shopping-app/build)
